@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include<stdio.h>
 
 //a. Define a structure to store student information
 struct Student{
