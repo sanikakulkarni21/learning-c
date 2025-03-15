@@ -37,9 +37,9 @@ int main() {
     int choice;
 
     printf("Choose an operation:\n");
-    printf("1. Add two numbers\n");
-    printf("2. Add two binary numbers\n");
-    printf("3. Add two characters\n");
+    printf("1. Addition of two numbers\n");
+    printf("2. Addition of two binary numbers\n");
+    printf("3. Addition two characters\n");
     printf("Enter your choice (1-3): ");
     scanf("%d", &choice);
 
