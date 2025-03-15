@@ -54,7 +54,7 @@ int main() {
             add_characters();
             break;
         default:
-            printf("Invalid choice!\n");
+            printf("Invalid choice please enter valid choice!\n");
             break;
     }
 
